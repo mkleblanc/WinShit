@@ -1,0 +1,27 @@
+I added this file to see if I could
+
+And also to describe how I intend the webpage template to work.
+
+Users should enter our submission, and all they will have is a single, long page.
+
+On this page, they will be able to see how leblanc mains fared compared to non-leblanc mains against leblancs
+	{or champion, really}
+
+On the page, there will be a few graphs:
+	scatter plot Champion c (main fare versus):
+		x axis will be champion - where c is the main and the opponent
+		y axis will be winrate
+	bar graph comparability:
+		x axis will be winrate (mains versus and non-mains versus)
+		y axis will be winrate
+    ^^^^ We could combine these 2, if we choose, but I think they are more meaningful separate ^^^^
+
+	
+There will be text describing each of these graphs
+And, of course they will be populated by images
+
+
+Now, we could draw these graphs every time someone visits
+		Add to our calculations
+		Leave our data the way it was
+Or we could literally just show a picture LoloLOLlol
